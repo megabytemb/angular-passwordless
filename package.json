@@ -2,7 +2,7 @@
   "name": "angular-lock-passwordless",
   "version": "1.0.1",
   "description": "Angular wrapper for Lock",
-  "main": "angular-lock-passwordless.js",
+  "main": "dist/angular-lock-passwordless.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/auth0/angular-lock-passwordless.git"
